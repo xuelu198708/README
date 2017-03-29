@@ -146,7 +146,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 链接
 ------
-###链接外部URL
+### 链接外部URL
 |#|语法|效果|
 |---|----|-----
 |1|`[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")`|[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")
@@ -246,7 +246,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 ## 块引用
 
 ### 常用于引用文本
-#### 文本摘自《深入理解计算机系统》P27
+####文本摘自《深入理解计算机系统》P27
 　令人吃惊的是，在哪种字节顺序是合适的这个问题上，人们表现得非常情绪化。实际上术语“little endian”（小端）和“big endian”（大端）出自Jonathan Swift的《格利佛游记》一书，其中交战的两个派别无法就应该从哪一端打开一个半熟的鸡蛋达成一致。因此，争论沦为关于社会政治的争论。只要选择了一种规则并且始终如一的坚持，其实对于哪种字节排序的选择都是任意的。
 >**“端”（endian）的起源**  
 以下是Jonathan Swift在1726年关于大小端之争历史的描述：  
